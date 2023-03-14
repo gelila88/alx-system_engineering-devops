@@ -1,0 +1,3 @@
+#!/bin/bash
+Mkdir -p welcome/to/school
+
